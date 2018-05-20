@@ -64,5 +64,5 @@ JSX语法，像是在Javascript代码里直接写XML的语法，实质上这只�
 * 如果采用非阻塞模式，那么不等读取的文件返回，就执行下一行代码。这样就可以在读取文件时同时执行接下来的代码，大大提高了程序的性能。
 
 # 作业链接
-https://github.com/guoyan5guoyan/mfs-react-homework
-https://github.com/guoyan5guoyan/mfs-react-homework/tree/master/20180515
+* https://github.com/guoyan5guoyan/mfs-react-homework
+*  https://github.com/guoyan5guoyan/mfs-react-homework/tree/master/20180515

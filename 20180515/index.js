@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
-
 class HelloComponent extends React.Component{
     render(){
       return (

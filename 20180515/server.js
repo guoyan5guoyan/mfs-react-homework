@@ -14,7 +14,7 @@ http.createServer(function (request, response) {
     var path = objURL.pathname;
     
     // 对请求path进行判断，是为了防止：
-    // chrome发请求时，会同时请求favicon.ico，相当于2次请求，导致计数每次增加2
+    // chrome发请求时，会同时请求favicon.ico，相当于两次请求，导致计数每次增加2
     if(path==='/'){
         // 发送响应数据 当前计数
         response.end('Current Num: ' + count);
